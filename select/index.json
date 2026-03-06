@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "マジックアワー",
+  "base_artist": "SAKANAMON",
+  "createdAt": "2026-03-06T08:04:09.831671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マジックアワー",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_マジックアワー_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マジックアワー",
+      "artist": "lyrical school",
+      "has_synced": false,
+      "path": "select/02_マジックアワー_lyrical_school.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マジックアワー",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/03_マジックアワー_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マジックアワー / Magic Hour",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": false,
+      "path": "select/04_マジックアワー___Magic_Hour_Ryokuoushoku_Shakai.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マジックアワー - Instrumental",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": false,
+      "path": "select/05_マジックアワー_-_Instrumental_Ryokuoushoku_Shakai.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マジックアワー - Magic Hour",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": false,
+      "path": "select/06_マジックアワー_-_Magic_Hour_Ryokuoushoku_Shakai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジックアワー",
+      "artist": "SAKANAMON",
+      "has_synced": false,
+      "path": "select/pl_01_マジックアワー_SAKANAMON.txt"
+    }
+  ]
+}
